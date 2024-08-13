@@ -17,7 +17,7 @@ Operational Trends: Revealed insights into restaurant performance, helping to un
 
 ## Tools & Technologies
 
-Python: For data analysis and visualization
-Libraries: Pandas, Matplotlib, Seaborn
+* Python: For data analysis and visualization
+* Libraries: Pandas, Matplotlib, Seaborn
 
 This project provided valuable insights into the restaurant industry, showcasing the power of data science in uncovering hidden patterns and driving improvements.
